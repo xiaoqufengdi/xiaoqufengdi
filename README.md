@@ -1,7 +1,7 @@
 # xiaoqufengdi 工具站
 
 ## 工具列表
-+ [2025年最新房贷计算器](https://www.xiaoqufengdi.com)
++ [2025年最新房贷计算器](https://www.xiaoqufengdi.top)
 >2025年5月最新房贷计算器，支持商业贷款、公积金贷款、组合贷款计算，提供等额本息/等额本金两种方式对比，实时计算月供、总利息及还款计划表
   + <img src="./images/mortage.png" alt="房贷计算器" height="200" />
 
