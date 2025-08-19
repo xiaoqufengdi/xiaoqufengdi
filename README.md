@@ -16,7 +16,7 @@
 
 + [随机抽签点名工具](https://random.xiaoqufengdi.top/)
 >一款公平公正的随机抽签点名工具，帮助团队快速随机选择成员，支持名单导入和抽取设置，操作简单高效。
-      + <img src="./images/random.png" alt="随机抽签点名工具" height="200" />
+   + <img src="./images/random.png" alt="随机抽签点名工具" height="200" />
 
 
 ## 关于我
