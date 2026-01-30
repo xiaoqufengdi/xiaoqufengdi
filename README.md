@@ -3,7 +3,12 @@
 ## 工具列表
 + [2025年最新房贷计算器](https://www.xiaoqufengdi.top)
 >2025年5月最新房贷计算器，支持商业贷款、公积金贷款、组合贷款计算，提供等额本息/等额本金两种方式对比，实时计算月供、总利息及还款计划表
-  + <img src="./images/mortage.png" alt="房贷计算器" height="200" />
+  + <img src="./images/mortgage.png" alt="房贷计算器" height="200" />
+
++ [车贷计算器](https://car.xiaoqufengdi.top)
+>车贷计算器是一款专为汽车消费者设计的智能在线计算工具。它能帮助您在贷款购车前，快速、准确地计算出不同的贷款方案下的还款详情，从而做出最明智的财务决策。
++ <img src="./images/car.png" alt="房贷计算器" height="200" />
+
 
 + [2025最新个税计算器](https://tax.xiaoqufengdi.top/)
 >2025最新个税计算器-快速准确计算工资、年终奖个人所得税，提供专项附加扣除计算和优化建议，助您合理节税
